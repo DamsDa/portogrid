@@ -37,7 +37,7 @@ body{
     border: 3px solid black;
     grid-area: hero;
     min-height: 300px;
-    background-image: url(/public/img/head.jpg);
+    background-image: url(img/head.jpg);
     background-size: cover;
     background-position: center;
     padding: 50px;
@@ -58,13 +58,13 @@ body{
 
 .feature-1{
     grid-area: feature-1;
-    background-image: url(/public/img/side.jpg);
+    background-image: url(img/side.jpg);
     background-size: cover;
 }
 
 .feature-2{
     grid-area: feature-2;
-    background-image: url(/public/img/wold.jpg);
+    background-image: url(img/wold.jpg);
     background-size: cover;
 }
 
